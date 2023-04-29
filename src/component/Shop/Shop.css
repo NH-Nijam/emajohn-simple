@@ -1,0 +1,24 @@
+.Shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 20px;
+}
+
+.Shop-add{   
+    margin-left: 100px;
+    margin-top: 120px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 45px;
+}
+
+
+/* order-view */
+.order-summary{  
+    background-color: #FF9900;
+    padding: 10px;
+}
+.order-summary h2{
+    text-align: center;
+    text-decoration: underline;
+}
