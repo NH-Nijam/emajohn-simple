@@ -15,10 +15,13 @@
 
 /* order-view */
 .order-summary{  
-    background-color: #FF9900;
-    padding: 10px;
+    background: rgba(255, 153, 0, 0.3);
 }
 .order-summary h2{
     text-align: center;
-    text-decoration: underline;
+    font-size: 25px;
+}
+.order-view{
+    margin-top: 55px;
+    margin-left: 10px;
 }
