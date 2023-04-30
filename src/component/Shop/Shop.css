@@ -14,14 +14,3 @@
 
 
 /* order-view */
-.order-summary{  
-    background: rgba(255, 153, 0, 0.3);
-}
-.order-summary h2{
-    text-align: center;
-    font-size: 25px;
-}
-.order-view{
-    margin-top: 55px;
-    margin-left: 10px;
-}
